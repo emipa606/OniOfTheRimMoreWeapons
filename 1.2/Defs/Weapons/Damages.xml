@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <DamageDef ParentName="Arrow">
+    <defName>OniArrowT</defName>
+    <hediff>Stab</hediff>
+    <additionalHediffs>
+      <li>
+        <hediff>YokaiNarcoticDrugged</hediff>
+        <severityPerDamageDealt>0.008</severityPerDamageDealt>
+        <victimSeverityScaling>ToxicSensitivity</victimSeverityScaling>
+      </li>
+    </additionalHediffs>
+  </DamageDef>
+  <DamageDef>
+    <defName>StabYokaiNarcotic</defName>
+    <label>poisonous stab</label>
+    <workerClass>DamageWorker_Stab</workerClass>
+    <additionalHediffs>
+      <li>
+        <hediff>YokaiNarcoticDrugged</hediff>
+        <severityPerDamageDealt>0.006</severityPerDamageDealt>
+        <victimSeverityScaling>ToxicSensitivity</victimSeverityScaling>
+      </li>
+    </additionalHediffs>
+    <externalViolence>true</externalViolence>
+    <deathMessage>{0} has been stabbed to death.</deathMessage>
+    <hediff>Stab</hediff>
+    <hediffSolid>Crack</hediffSolid>
+    <impactSoundType>Slice</impactSoundType>
+    <armorCategory>Sharp</armorCategory>
+    <stabChanceOfForcedInternal>0.6</stabChanceOfForcedInternal>
+    <overkillPctToDestroyPart>0.4~1.0</overkillPctToDestroyPart>
+  </DamageDef>
+  <DamageDef ParentName="CutBase">
+    <defName>CutYokaiNarcotic</defName>
+    <label>poisonous cut</label>
+    <additionalHediffs>
+      <li>
+        <hediff>YokaiNarcoticDrugged</hediff>
+        <severityPerDamageDealt>0.006</severityPerDamageDealt>
+        <victimSeverityScaling>ToxicSensitivity</victimSeverityScaling>
+      </li>
+    </additionalHediffs>
+  </DamageDef>
+  <DamageDef ParentName="Oni_Kunai">
+    <defName>OnithrowinToxic</defName>
+    <label>Oni poisonous war dagger</label>
+    <additionalHediffs>
+      <li>
+        <hediff>YokaiNarcoticDrugged</hediff>
+        <severityPerDamageDealt>0.006</severityPerDamageDealt>
+        <victimSeverityScaling>ToxicSensitivity</victimSeverityScaling>
+      </li>
+    </additionalHediffs>
+  </DamageDef>
+</Defs>
