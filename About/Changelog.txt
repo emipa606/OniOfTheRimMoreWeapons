@@ -1,4 +1,7 @@
 # Changelog for OniOfTheRimMoreWeapons
 
+1.0.1.0 - For some reason a texture had the wrong name suddenly.
+
+
 1.0.0.0 - First publish
 

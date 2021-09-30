@@ -1,14 +1,14 @@
 # OniOfTheRimMoreWeapons
 
-![Image](https://i.imgur.com/WAEzk68.png)
+![Image](https://i.imgur.com/buuPQel.png)
 
 Update of Mori Ginto and Tarojuns mod
 https://steamcommunity.com/sharedfiles/filedetails/?id=1734112755
 
-![Image](https://i.imgur.com/7Gzt3Rg.png)
+![Image](https://i.imgur.com/pufA0kM.png)
 
 	
-![Image](https://i.imgur.com/NOW7jU1.png)
+![Image](https://i.imgur.com/Z4GOv8H.png)
 
 This mod adds 3 new weapons and 2 new variant weapons all built around the culture of the Oni Race.
 
@@ -41,7 +41,7 @@ Variants
 Yumi Yokai Tipped
 Yokai Tipped War Dagger
 
-Note Yokai Toxin Dose Not Effect Mechanoid&apos;s!
+Note Yokai Toxin Dose Not Effect Mechanoid's!
 
 Base damage values and cool downs do not change for every point of damage dealt target receives 0.015 Severity of Yokai Narcotic Toxin this is the same effect found on the Oni Blow Dart from the base mod.
 As severity increases targets will suffer reduced consciousness increased tiredness and vomiting. At high severity beginning at 0.75 moving and consciousness are halved at severity 1 all organic and none toxic immune pawns will be rendered unconscious regardless of injury.
@@ -51,7 +51,7 @@ Requires Alien Framework V2.0 by Erdelf  https://steamcommunity.com/workshop/fil
 Requires Oni of the Rim By Tarojun, Lucky and MoriShep
  Weapons Sprites - MoriShep and Lucky
 
-![Image](https://i.imgur.com/Rs6T6cr.png)
+![Image](https://i.imgur.com/PwoNOj4.png)
 
 
 
