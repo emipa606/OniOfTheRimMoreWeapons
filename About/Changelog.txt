@@ -1,5 +1,8 @@
 # Changelog for OniOfTheRimMoreWeapons
 
+1.4.0 - Had missed that the prereq for this had changed, better late than never I suppose
+
+
 1.0.1.0 - For some reason a texture had the wrong name suddenly.
 
 

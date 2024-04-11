@@ -9,16 +9,17 @@
     <li>1.1</li>
     <li>1.2</li>
     <li>1.3</li>
+    <li>1.4</li>
   </supportedVersions>
   <modDependencies>
     <li>
-      <packageId>morishep.tarojun.onioftherim</packageId>
+      <packageId>tarojun.morishep.onioftherim</packageId>
       <displayName>Oni of the Rim</displayName>
-      <steamWorkshopUrl>steam://url/CommunityFilePage/1632244750</steamWorkshopUrl>
+      <steamWorkshopUrl>steam://url/CommunityFilePage/2891432261</steamWorkshopUrl>
     </li>
   </modDependencies>
   <loadAfter>
-    <li>morishep.tarojun.onioftherim</li>
+    <li>tarojun.morishep.onioftherim</li>
   </loadAfter>
   <description>[img]https://i.imgur.com/buuPQel.png[/img]
 Update of Mori Ginto and Tarojuns mod
@@ -28,7 +29,7 @@ https://steamcommunity.com/sharedfiles/filedetails/?id=1734112755
 
 [table]
     [tr]
-        [td][url=https://invite.gg/Mlie][img]https://i.imgur.com/zdzzBrc.png[/img][/url][/td]
+        [td][url=https://dsc.gg/mlie][img]https://i.imgur.com/zdzzBrc.png[/img][/url][/td]
         [td][url=https://github.com/emipa606/OniOfTheRimMoreWeapons][img]https://i.imgur.com/kTkpTOE.png[/img][/url][/td]
     [/tr]
     [tr]
@@ -83,10 +84,13 @@ Requires Oni of the Rim By Tarojun, Lucky and MoriShep
 [list]
 [*] See if the the error persists if you just have this mod and its requirements active.
 [*] If not, try adding your other mods until it happens again.
-[*] Post your error-log using [url=https://steamcommunity.com/workshop/filedetails/?id=818773962]HugsLib[/url] and command Ctrl+F12
+[*] Post your error-log using [url=https://steamcommunity.com/workshop/filedetails/?id=818773962]HugsLib[/url] or the standalone [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2873415404]Uploader[/url] and command Ctrl+F12
 [*] For best support, please use the Discord-channel for error-reporting.
 [*] Do not report errors by making a discussion-thread, I get no notification of that.
 [*] If you have the solution for a problem, please post it to the GitHub repository.
+[*] Use [url=https://github.com/RimSort/RimSort/releases/latest]RimSort[/url] to sort your mods
 [/list]
-</description>
+
+[url=https://steamcommunity.com/sharedfiles/filedetails/changelog/2572896497][img]https://img.shields.io/github/v/release/emipa606/OniOfTheRimMoreWeapons?label=latest%20version&amp;style=plastic&amp;color=9f1111&amp;labelColor=black[/img][/url]</description>
+  <modVersion IgnoreIfNoMatchingField="True">1.4.0</modVersion>
 </ModMetaData>
